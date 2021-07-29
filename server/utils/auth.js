@@ -1,6 +1,7 @@
 const jwt = require('jsonwebtoken');
 
 // set token secret and expiration date
+//! should i move this secret to a .env file?
 const secret = 'mysecretsshhhhh';
 const expiration = '2h';
 
@@ -12,7 +13,10 @@ module.exports = {
 
     // ["Bearer", "<tokenvalue>"]
     if (req.headers.authorization) {
-      token = token.split(' ').pop().trim();
+      token = token
+        .split(' ')
+        .pop()
+        .trim();
     }
 
     if (!token) {
