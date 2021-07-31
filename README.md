@@ -1,6 +1,6 @@
 # BookLot
 
-This is a simple social media full stack application. Where users can create thoughts, add reaction to thoughts, and also add friends to their friend list.
+This is a simple book search and save full stack application. Where users can search for books and save books to their profile.
 
 
 ## Usage
