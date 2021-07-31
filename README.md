@@ -1,6 +1,8 @@
 # BookLot
 
-This is a simple book search and save full stack application. Where users can search for books and save books to their profile.
+This is a simple book search and save full stack application. Where users can search for books and save books to their profile. 
+
+This application task was to refactor the database from RESTful APIs to a GraphQl API. 
 
 
 ## Usage
@@ -15,15 +17,14 @@ This is a simple book search and save full stack application. Where users can se
 
 ## Aplication Link
 
-https://jbryant-deep-thoughts.herokuapp.com/
+https://jbryant-booklot.herokuapp.com/
   
 ## Images
 
-![image](https://user-images.githubusercontent.com/78622927/127748424-869fcfa8-995a-4b41-bb81-b7d2d09b094d.png)
+![image](https://user-images.githubusercontent.com/78622927/127749842-d870c59d-a8ad-4896-ab10-eba1941db988.png)
 
 
 
-
-### Developer
+###  Refractor Developer
 
 Joseph Bryant
